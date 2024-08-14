@@ -1,0 +1,9 @@
+{
+  "name": "events-scheduler-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/events-scheduler-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["events-scheduler"],
+  "// targets": "to see all targets run: nx show project events-scheduler-e2e --web",
+  "targets": {}
+}
